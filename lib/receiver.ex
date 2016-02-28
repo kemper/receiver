@@ -1,0 +1,2 @@
+defmodule Receiver do
+end
