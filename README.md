@@ -1,6 +1,6 @@
 # Receiver
 
-**TODO: Add description**
+This logs and responds with a shard id and http body
 
 ## Installation
 
@@ -17,4 +17,3 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
         def application do
           [applications: [:receiver]]
         end
-
